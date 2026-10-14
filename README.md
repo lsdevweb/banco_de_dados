@@ -98,6 +98,7 @@ WHERE cod_produto = 1;
 SQL
 DELETE FROM Item_Pedido 
 WHERE cod_item_pedido = 1;
+
 ✒️ Licença e Autor
 Desenvolvido como parte do projeto de modelagem e estruturação de banco de dados para a LS Soluções WEB.
 
